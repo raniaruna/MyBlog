@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBlog</string>
+    <string name="et_username_hint">Please enter your usename</string>
+    <string name="et_password_hint">Please enter your password</string>
+    <string name="btn_signin">Login</string>
+    <string name="btn_register">Regiter</string>
+    <string name="logout_link">Logout</string>
+    <string name="home_link">Home</string>
+</resources>

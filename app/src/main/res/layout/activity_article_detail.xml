@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView android:id="@+id/articleTitle"
+        android:text="ArticleTitle"
+        style="@style/Article_title" />
+    <TextView
+        android:id="@+id/articleBody"
+        android:text="ArticleBody"
+        style="@style/Article_body" />
+
+</LinearLayout>
